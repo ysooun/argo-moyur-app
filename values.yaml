@@ -1,0 +1,7 @@
+image:
+  repository: docker.io/renum/moyur/general
+  tag: v1.0.0
+
+service:
+  name: moyur-app
+  port: 80
