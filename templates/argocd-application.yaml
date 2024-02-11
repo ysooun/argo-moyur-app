@@ -7,8 +7,8 @@ spec:
     server: 'https://kubernetes.default.svc'
   project: default
   source:
-    repoURL: 'https://your-git-repo-url'
-    path: '/path-to-your-app'
+    repoURL: 'https://github.com/ysooun'
+    path: '/moyur-app'
     targetRevision: 'main'
   syncPolicy:
     automated:
