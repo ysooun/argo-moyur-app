@@ -8,7 +8,7 @@ spec:
   project: default
   source:
     repoURL: 'https://github.com/ysooun'
-    path: '/moyur-app'
+    path: '/y-s-moyur-app'
     targetRevision: 'main'
   syncPolicy:
     automated:
