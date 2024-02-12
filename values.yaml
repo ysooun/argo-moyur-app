@@ -3,4 +3,4 @@ image:
   tag: v1.0.0
 service:
   name: moyur-app
-  port: 80
+  port: 8080
