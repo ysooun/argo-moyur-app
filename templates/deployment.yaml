@@ -58,3 +58,5 @@ spec:
                 secretKeyRef:
                   name: moyur-secret
                   key: spring.jwt.secret
+            - name: SPRING_JPA_HIBERNATE_DDL_AUTO
+              value: "update"
