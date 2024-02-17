@@ -58,7 +58,7 @@ spec:
                 secretKeyRef:
                   name: moyur-secret
                   key: spring.jwt.secret
-            spring:
-              jpa:
-                hibernate:
-                  ddl-auto: update
+              spring:
+                jpa:
+                  hibernate:
+                    ddl-auto: update
